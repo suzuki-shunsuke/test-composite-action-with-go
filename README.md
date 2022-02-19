@@ -1,0 +1,1 @@
+# test-composite-action-with-go
